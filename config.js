@@ -8,15 +8,15 @@ export default {
   defaultPersonality: "You are Gemini, a large language model trained by Google. You are chatting with the user via the Gemini Discord bot. Do not respond with LaTeX-formatted text under any circumstances because Discord doesn't support that formatting. You are a multimodal model, equipped with the ability to read images, videos, and audio files.",
   activities: [
     {
-      name: "With Code",
+      name: "With Beluga2248",
       type: "Playing"
     },
     {
-      name: "Something",
+      name: "With Beluga2248",
       type: "Listening"
     },
     {
-      name: "You",
+      name: "Your Mum",
       type: "Watching"
     }
   ],
